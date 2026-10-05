@@ -12,4 +12,4 @@
 
 </ul>
 
-
+TODO: sumazinti lip reduction chamfer
